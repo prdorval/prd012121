@@ -1,0 +1,11 @@
+body { background-color: red; }
+header { background-color: green; }
+section { background-color: yellow; }
+.groupid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.data-form {
+  display: grid;
+  grid-template-columns:1fr 2fr 1fr 1fr;
+}
